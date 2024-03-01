@@ -1,6 +1,6 @@
 # Trella
 
-O Trella é um projeto de kanban, que foi desafio do módulo 3 da Formacão front-end da Ada Tech.
+O Trella é um projeto de kanban, que foi desafio do módulo 5da Formacão front-end da Ada Tech.
 
 ## Funcionalidades:
 - Criar usuário
